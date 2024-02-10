@@ -1,0 +1,15 @@
+E:\Repos\Projects\C#\RouteC#Session Solution\DataTypeSession\bin\Debug\net5.0\DataTypeSession.exe
+E:\Repos\Projects\C#\RouteC#Session Solution\DataTypeSession\bin\Debug\net5.0\DataTypeSession.deps.json
+E:\Repos\Projects\C#\RouteC#Session Solution\DataTypeSession\bin\Debug\net5.0\DataTypeSession.runtimeconfig.json
+E:\Repos\Projects\C#\RouteC#Session Solution\DataTypeSession\bin\Debug\net5.0\DataTypeSession.runtimeconfig.dev.json
+E:\Repos\Projects\C#\RouteC#Session Solution\DataTypeSession\bin\Debug\net5.0\DataTypeSession.dll
+E:\Repos\Projects\C#\RouteC#Session Solution\DataTypeSession\bin\Debug\net5.0\DataTypeSession.pdb
+E:\Repos\Projects\C#\RouteC#Session Solution\DataTypeSession\obj\Debug\net5.0\DataTypeSession.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\Projects\C#\RouteC#Session Solution\DataTypeSession\obj\Debug\net5.0\DataTypeSession.AssemblyInfoInputs.cache
+E:\Repos\Projects\C#\RouteC#Session Solution\DataTypeSession\obj\Debug\net5.0\DataTypeSession.AssemblyInfo.cs
+E:\Repos\Projects\C#\RouteC#Session Solution\DataTypeSession\obj\Debug\net5.0\DataTypeSession.csproj.CoreCompileInputs.cache
+E:\Repos\Projects\C#\RouteC#Session Solution\DataTypeSession\obj\Debug\net5.0\DataTypeSession.dll
+E:\Repos\Projects\C#\RouteC#Session Solution\DataTypeSession\obj\Debug\net5.0\refint\DataTypeSession.dll
+E:\Repos\Projects\C#\RouteC#Session Solution\DataTypeSession\obj\Debug\net5.0\DataTypeSession.pdb
+E:\Repos\Projects\C#\RouteC#Session Solution\DataTypeSession\obj\Debug\net5.0\DataTypeSession.genruntimeconfig.cache
+E:\Repos\Projects\C#\RouteC#Session Solution\DataTypeSession\obj\Debug\net5.0\ref\DataTypeSession.dll

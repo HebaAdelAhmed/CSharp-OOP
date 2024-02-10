@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Session 3.0 Assigement 1.0 C Sharp/1.0.0": {
+        "runtime": {
+          "Session 3.0 Assigement 1.0 C Sharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Session 3.0 Assigement 1.0 C Sharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

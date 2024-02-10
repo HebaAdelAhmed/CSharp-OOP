@@ -1,0 +1,11 @@
+E:\Repos\Projects\C#\OOP C Sharp Session 1.0 Solution\Common\bin\Debug\net5.0\Common.deps.json
+E:\Repos\Projects\C#\OOP C Sharp Session 1.0 Solution\Common\bin\Debug\net5.0\Common.dll
+E:\Repos\Projects\C#\OOP C Sharp Session 1.0 Solution\Common\bin\Debug\net5.0\Common.pdb
+E:\Repos\Projects\C#\OOP C Sharp Session 1.0 Solution\Common\obj\Debug\net5.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\Projects\C#\OOP C Sharp Session 1.0 Solution\Common\obj\Debug\net5.0\Common.AssemblyInfoInputs.cache
+E:\Repos\Projects\C#\OOP C Sharp Session 1.0 Solution\Common\obj\Debug\net5.0\Common.AssemblyInfo.cs
+E:\Repos\Projects\C#\OOP C Sharp Session 1.0 Solution\Common\obj\Debug\net5.0\Common.csproj.CoreCompileInputs.cache
+E:\Repos\Projects\C#\OOP C Sharp Session 1.0 Solution\Common\obj\Debug\net5.0\Common.dll
+E:\Repos\Projects\C#\OOP C Sharp Session 1.0 Solution\Common\obj\Debug\net5.0\refint\Common.dll
+E:\Repos\Projects\C#\OOP C Sharp Session 1.0 Solution\Common\obj\Debug\net5.0\Common.pdb
+E:\Repos\Projects\C#\OOP C Sharp Session 1.0 Solution\Common\obj\Debug\net5.0\ref\Common.dll

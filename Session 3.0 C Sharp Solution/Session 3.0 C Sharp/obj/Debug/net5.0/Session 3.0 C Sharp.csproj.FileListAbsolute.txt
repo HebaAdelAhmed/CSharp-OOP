@@ -1,0 +1,15 @@
+E:\Repos\Projects\C#\Session 3.0 C Sharp Solution\Session 3.0 C Sharp\bin\Debug\net5.0\Session 3.0 C Sharp.exe
+E:\Repos\Projects\C#\Session 3.0 C Sharp Solution\Session 3.0 C Sharp\bin\Debug\net5.0\Session 3.0 C Sharp.deps.json
+E:\Repos\Projects\C#\Session 3.0 C Sharp Solution\Session 3.0 C Sharp\bin\Debug\net5.0\Session 3.0 C Sharp.runtimeconfig.json
+E:\Repos\Projects\C#\Session 3.0 C Sharp Solution\Session 3.0 C Sharp\bin\Debug\net5.0\Session 3.0 C Sharp.runtimeconfig.dev.json
+E:\Repos\Projects\C#\Session 3.0 C Sharp Solution\Session 3.0 C Sharp\bin\Debug\net5.0\Session 3.0 C Sharp.dll
+E:\Repos\Projects\C#\Session 3.0 C Sharp Solution\Session 3.0 C Sharp\bin\Debug\net5.0\Session 3.0 C Sharp.pdb
+E:\Repos\Projects\C#\Session 3.0 C Sharp Solution\Session 3.0 C Sharp\obj\Debug\net5.0\Session 3.0 C Sharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\Projects\C#\Session 3.0 C Sharp Solution\Session 3.0 C Sharp\obj\Debug\net5.0\Session 3.0 C Sharp.AssemblyInfoInputs.cache
+E:\Repos\Projects\C#\Session 3.0 C Sharp Solution\Session 3.0 C Sharp\obj\Debug\net5.0\Session 3.0 C Sharp.AssemblyInfo.cs
+E:\Repos\Projects\C#\Session 3.0 C Sharp Solution\Session 3.0 C Sharp\obj\Debug\net5.0\Session 3.0 C Sharp.csproj.CoreCompileInputs.cache
+E:\Repos\Projects\C#\Session 3.0 C Sharp Solution\Session 3.0 C Sharp\obj\Debug\net5.0\Session 3.0 C Sharp.dll
+E:\Repos\Projects\C#\Session 3.0 C Sharp Solution\Session 3.0 C Sharp\obj\Debug\net5.0\refint\Session 3.0 C Sharp.dll
+E:\Repos\Projects\C#\Session 3.0 C Sharp Solution\Session 3.0 C Sharp\obj\Debug\net5.0\Session 3.0 C Sharp.pdb
+E:\Repos\Projects\C#\Session 3.0 C Sharp Solution\Session 3.0 C Sharp\obj\Debug\net5.0\Session 3.0 C Sharp.genruntimeconfig.cache
+E:\Repos\Projects\C#\Session 3.0 C Sharp Solution\Session 3.0 C Sharp\obj\Debug\net5.0\ref\Session 3.0 C Sharp.dll

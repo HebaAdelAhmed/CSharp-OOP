@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Session_2._0_Assigement_1._0_C_Sharp
+build_property.ProjectDir = E:\Repos\Projects\C#\Session 2.0 Assigement 1.0 C Sharp Solution\Session 2.0 Assigement 1.0 C Sharp\

@@ -1,0 +1,8 @@
+E:\Repos\Projects\C#\RouteC#Session Solution\EnumsSession\bin\Debug\net5.0\EnumsSession.exe
+E:\Repos\Projects\C#\RouteC#Session Solution\EnumsSession\obj\Debug\net5.0\EnumsSession.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\Projects\C#\RouteC#Session Solution\EnumsSession\obj\Debug\net5.0\EnumsSession.AssemblyInfoInputs.cache
+E:\Repos\Projects\C#\RouteC#Session Solution\EnumsSession\obj\Debug\net5.0\EnumsSession.AssemblyInfo.cs
+E:\Repos\Projects\C#\RouteC#Session Solution\EnumsSession\obj\Debug\net5.0\EnumsSession.csproj.CoreCompileInputs.cache
+E:\Repos\Projects\C#\RouteC#Session Solution\EnumsSession\obj\Debug\net5.0\EnumsSession.dll
+E:\Repos\Projects\C#\RouteC#Session Solution\EnumsSession\obj\Debug\net5.0\refint\EnumsSession.dll
+E:\Repos\Projects\C#\RouteC#Session Solution\EnumsSession\obj\Debug\net5.0\EnumsSession.pdb

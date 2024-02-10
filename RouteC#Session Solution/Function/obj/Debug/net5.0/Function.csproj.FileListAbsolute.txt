@@ -1,0 +1,15 @@
+E:\Repos\Projects\C#\RouteC#Session Solution\Function\bin\Debug\net5.0\Function.exe
+E:\Repos\Projects\C#\RouteC#Session Solution\Function\bin\Debug\net5.0\Function.deps.json
+E:\Repos\Projects\C#\RouteC#Session Solution\Function\bin\Debug\net5.0\Function.runtimeconfig.json
+E:\Repos\Projects\C#\RouteC#Session Solution\Function\bin\Debug\net5.0\Function.runtimeconfig.dev.json
+E:\Repos\Projects\C#\RouteC#Session Solution\Function\bin\Debug\net5.0\Function.dll
+E:\Repos\Projects\C#\RouteC#Session Solution\Function\bin\Debug\net5.0\Function.pdb
+E:\Repos\Projects\C#\RouteC#Session Solution\Function\obj\Debug\net5.0\Function.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\Projects\C#\RouteC#Session Solution\Function\obj\Debug\net5.0\Function.AssemblyInfoInputs.cache
+E:\Repos\Projects\C#\RouteC#Session Solution\Function\obj\Debug\net5.0\Function.AssemblyInfo.cs
+E:\Repos\Projects\C#\RouteC#Session Solution\Function\obj\Debug\net5.0\Function.csproj.CoreCompileInputs.cache
+E:\Repos\Projects\C#\RouteC#Session Solution\Function\obj\Debug\net5.0\Function.dll
+E:\Repos\Projects\C#\RouteC#Session Solution\Function\obj\Debug\net5.0\refint\Function.dll
+E:\Repos\Projects\C#\RouteC#Session Solution\Function\obj\Debug\net5.0\Function.pdb
+E:\Repos\Projects\C#\RouteC#Session Solution\Function\obj\Debug\net5.0\Function.genruntimeconfig.cache
+E:\Repos\Projects\C#\RouteC#Session Solution\Function\obj\Debug\net5.0\ref\Function.dll

@@ -1,0 +1,15 @@
+E:\Repos\Projects\C#\RouteC#Session Solution\ArraySession\bin\Debug\net5.0\ArraySession.exe
+E:\Repos\Projects\C#\RouteC#Session Solution\ArraySession\bin\Debug\net5.0\ArraySession.deps.json
+E:\Repos\Projects\C#\RouteC#Session Solution\ArraySession\bin\Debug\net5.0\ArraySession.runtimeconfig.json
+E:\Repos\Projects\C#\RouteC#Session Solution\ArraySession\bin\Debug\net5.0\ArraySession.runtimeconfig.dev.json
+E:\Repos\Projects\C#\RouteC#Session Solution\ArraySession\bin\Debug\net5.0\ArraySession.dll
+E:\Repos\Projects\C#\RouteC#Session Solution\ArraySession\bin\Debug\net5.0\ArraySession.pdb
+E:\Repos\Projects\C#\RouteC#Session Solution\ArraySession\obj\Debug\net5.0\ArraySession.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\Projects\C#\RouteC#Session Solution\ArraySession\obj\Debug\net5.0\ArraySession.AssemblyInfoInputs.cache
+E:\Repos\Projects\C#\RouteC#Session Solution\ArraySession\obj\Debug\net5.0\ArraySession.AssemblyInfo.cs
+E:\Repos\Projects\C#\RouteC#Session Solution\ArraySession\obj\Debug\net5.0\ArraySession.csproj.CoreCompileInputs.cache
+E:\Repos\Projects\C#\RouteC#Session Solution\ArraySession\obj\Debug\net5.0\ArraySession.dll
+E:\Repos\Projects\C#\RouteC#Session Solution\ArraySession\obj\Debug\net5.0\refint\ArraySession.dll
+E:\Repos\Projects\C#\RouteC#Session Solution\ArraySession\obj\Debug\net5.0\ArraySession.pdb
+E:\Repos\Projects\C#\RouteC#Session Solution\ArraySession\obj\Debug\net5.0\ArraySession.genruntimeconfig.cache
+E:\Repos\Projects\C#\RouteC#Session Solution\ArraySession\obj\Debug\net5.0\ref\ArraySession.dll

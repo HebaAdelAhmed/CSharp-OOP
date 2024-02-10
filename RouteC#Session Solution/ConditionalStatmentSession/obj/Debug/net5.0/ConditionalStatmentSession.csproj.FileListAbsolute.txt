@@ -1,0 +1,15 @@
+E:\Repos\Projects\C#\RouteC#Session Solution\ConditionalStatmentSession\bin\Debug\net5.0\ConditionalStatmentSession.exe
+E:\Repos\Projects\C#\RouteC#Session Solution\ConditionalStatmentSession\bin\Debug\net5.0\ConditionalStatmentSession.deps.json
+E:\Repos\Projects\C#\RouteC#Session Solution\ConditionalStatmentSession\bin\Debug\net5.0\ConditionalStatmentSession.runtimeconfig.json
+E:\Repos\Projects\C#\RouteC#Session Solution\ConditionalStatmentSession\bin\Debug\net5.0\ConditionalStatmentSession.runtimeconfig.dev.json
+E:\Repos\Projects\C#\RouteC#Session Solution\ConditionalStatmentSession\bin\Debug\net5.0\ConditionalStatmentSession.dll
+E:\Repos\Projects\C#\RouteC#Session Solution\ConditionalStatmentSession\bin\Debug\net5.0\ConditionalStatmentSession.pdb
+E:\Repos\Projects\C#\RouteC#Session Solution\ConditionalStatmentSession\obj\Debug\net5.0\ConditionalStatmentSession.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\Projects\C#\RouteC#Session Solution\ConditionalStatmentSession\obj\Debug\net5.0\ConditionalStatmentSession.AssemblyInfoInputs.cache
+E:\Repos\Projects\C#\RouteC#Session Solution\ConditionalStatmentSession\obj\Debug\net5.0\ConditionalStatmentSession.AssemblyInfo.cs
+E:\Repos\Projects\C#\RouteC#Session Solution\ConditionalStatmentSession\obj\Debug\net5.0\ConditionalStatmentSession.csproj.CoreCompileInputs.cache
+E:\Repos\Projects\C#\RouteC#Session Solution\ConditionalStatmentSession\obj\Debug\net5.0\ConditionalStatmentSession.dll
+E:\Repos\Projects\C#\RouteC#Session Solution\ConditionalStatmentSession\obj\Debug\net5.0\refint\ConditionalStatmentSession.dll
+E:\Repos\Projects\C#\RouteC#Session Solution\ConditionalStatmentSession\obj\Debug\net5.0\ConditionalStatmentSession.pdb
+E:\Repos\Projects\C#\RouteC#Session Solution\ConditionalStatmentSession\obj\Debug\net5.0\ConditionalStatmentSession.genruntimeconfig.cache
+E:\Repos\Projects\C#\RouteC#Session Solution\ConditionalStatmentSession\obj\Debug\net5.0\ref\ConditionalStatmentSession.dll

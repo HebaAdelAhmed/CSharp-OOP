@@ -1,0 +1,15 @@
+E:\Repos\Projects\C#\RouteC#Session Solution\StringBuilderSession\bin\Debug\net5.0\StringBuilderSession.exe
+E:\Repos\Projects\C#\RouteC#Session Solution\StringBuilderSession\bin\Debug\net5.0\StringBuilderSession.deps.json
+E:\Repos\Projects\C#\RouteC#Session Solution\StringBuilderSession\bin\Debug\net5.0\StringBuilderSession.runtimeconfig.json
+E:\Repos\Projects\C#\RouteC#Session Solution\StringBuilderSession\bin\Debug\net5.0\StringBuilderSession.runtimeconfig.dev.json
+E:\Repos\Projects\C#\RouteC#Session Solution\StringBuilderSession\bin\Debug\net5.0\StringBuilderSession.dll
+E:\Repos\Projects\C#\RouteC#Session Solution\StringBuilderSession\bin\Debug\net5.0\StringBuilderSession.pdb
+E:\Repos\Projects\C#\RouteC#Session Solution\StringBuilderSession\obj\Debug\net5.0\StringBuilderSession.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\Projects\C#\RouteC#Session Solution\StringBuilderSession\obj\Debug\net5.0\StringBuilderSession.AssemblyInfoInputs.cache
+E:\Repos\Projects\C#\RouteC#Session Solution\StringBuilderSession\obj\Debug\net5.0\StringBuilderSession.AssemblyInfo.cs
+E:\Repos\Projects\C#\RouteC#Session Solution\StringBuilderSession\obj\Debug\net5.0\StringBuilderSession.csproj.CoreCompileInputs.cache
+E:\Repos\Projects\C#\RouteC#Session Solution\StringBuilderSession\obj\Debug\net5.0\StringBuilderSession.dll
+E:\Repos\Projects\C#\RouteC#Session Solution\StringBuilderSession\obj\Debug\net5.0\refint\StringBuilderSession.dll
+E:\Repos\Projects\C#\RouteC#Session Solution\StringBuilderSession\obj\Debug\net5.0\StringBuilderSession.pdb
+E:\Repos\Projects\C#\RouteC#Session Solution\StringBuilderSession\obj\Debug\net5.0\StringBuilderSession.genruntimeconfig.cache
+E:\Repos\Projects\C#\RouteC#Session Solution\StringBuilderSession\obj\Debug\net5.0\ref\StringBuilderSession.dll

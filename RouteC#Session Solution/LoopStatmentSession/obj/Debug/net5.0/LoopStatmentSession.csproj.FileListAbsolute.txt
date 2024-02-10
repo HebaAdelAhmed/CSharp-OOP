@@ -1,0 +1,15 @@
+E:\Repos\Projects\C#\RouteC#Session Solution\LoopStatmentSession\bin\Debug\net5.0\LoopStatmentSession.exe
+E:\Repos\Projects\C#\RouteC#Session Solution\LoopStatmentSession\bin\Debug\net5.0\LoopStatmentSession.deps.json
+E:\Repos\Projects\C#\RouteC#Session Solution\LoopStatmentSession\bin\Debug\net5.0\LoopStatmentSession.runtimeconfig.json
+E:\Repos\Projects\C#\RouteC#Session Solution\LoopStatmentSession\bin\Debug\net5.0\LoopStatmentSession.runtimeconfig.dev.json
+E:\Repos\Projects\C#\RouteC#Session Solution\LoopStatmentSession\bin\Debug\net5.0\LoopStatmentSession.dll
+E:\Repos\Projects\C#\RouteC#Session Solution\LoopStatmentSession\bin\Debug\net5.0\LoopStatmentSession.pdb
+E:\Repos\Projects\C#\RouteC#Session Solution\LoopStatmentSession\obj\Debug\net5.0\LoopStatmentSession.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\Projects\C#\RouteC#Session Solution\LoopStatmentSession\obj\Debug\net5.0\LoopStatmentSession.AssemblyInfoInputs.cache
+E:\Repos\Projects\C#\RouteC#Session Solution\LoopStatmentSession\obj\Debug\net5.0\LoopStatmentSession.AssemblyInfo.cs
+E:\Repos\Projects\C#\RouteC#Session Solution\LoopStatmentSession\obj\Debug\net5.0\LoopStatmentSession.csproj.CoreCompileInputs.cache
+E:\Repos\Projects\C#\RouteC#Session Solution\LoopStatmentSession\obj\Debug\net5.0\LoopStatmentSession.dll
+E:\Repos\Projects\C#\RouteC#Session Solution\LoopStatmentSession\obj\Debug\net5.0\refint\LoopStatmentSession.dll
+E:\Repos\Projects\C#\RouteC#Session Solution\LoopStatmentSession\obj\Debug\net5.0\LoopStatmentSession.pdb
+E:\Repos\Projects\C#\RouteC#Session Solution\LoopStatmentSession\obj\Debug\net5.0\LoopStatmentSession.genruntimeconfig.cache
+E:\Repos\Projects\C#\RouteC#Session Solution\LoopStatmentSession\obj\Debug\net5.0\ref\LoopStatmentSession.dll

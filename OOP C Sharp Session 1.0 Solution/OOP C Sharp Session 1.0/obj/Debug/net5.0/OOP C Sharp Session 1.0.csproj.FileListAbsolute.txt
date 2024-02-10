@@ -1,0 +1,19 @@
+E:\Repos\Projects\C#\OOP C Sharp Session 1.0 Solution\OOP C Sharp Session 1.0\bin\Debug\net5.0\OOP C Sharp Session 1.0.exe
+E:\Repos\Projects\C#\OOP C Sharp Session 1.0 Solution\OOP C Sharp Session 1.0\bin\Debug\net5.0\OOP C Sharp Session 1.0.deps.json
+E:\Repos\Projects\C#\OOP C Sharp Session 1.0 Solution\OOP C Sharp Session 1.0\bin\Debug\net5.0\OOP C Sharp Session 1.0.runtimeconfig.json
+E:\Repos\Projects\C#\OOP C Sharp Session 1.0 Solution\OOP C Sharp Session 1.0\bin\Debug\net5.0\OOP C Sharp Session 1.0.runtimeconfig.dev.json
+E:\Repos\Projects\C#\OOP C Sharp Session 1.0 Solution\OOP C Sharp Session 1.0\bin\Debug\net5.0\OOP C Sharp Session 1.0.dll
+E:\Repos\Projects\C#\OOP C Sharp Session 1.0 Solution\OOP C Sharp Session 1.0\bin\Debug\net5.0\OOP C Sharp Session 1.0.pdb
+E:\Repos\Projects\C#\OOP C Sharp Session 1.0 Solution\OOP C Sharp Session 1.0\bin\Debug\net5.0\Common.dll
+E:\Repos\Projects\C#\OOP C Sharp Session 1.0 Solution\OOP C Sharp Session 1.0\bin\Debug\net5.0\Common.pdb
+E:\Repos\Projects\C#\OOP C Sharp Session 1.0 Solution\OOP C Sharp Session 1.0\obj\Debug\net5.0\OOP C Sharp Session 1.0.csproj.AssemblyReference.cache
+E:\Repos\Projects\C#\OOP C Sharp Session 1.0 Solution\OOP C Sharp Session 1.0\obj\Debug\net5.0\OOP C Sharp Session 1.0.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\Projects\C#\OOP C Sharp Session 1.0 Solution\OOP C Sharp Session 1.0\obj\Debug\net5.0\OOP C Sharp Session 1.0.AssemblyInfoInputs.cache
+E:\Repos\Projects\C#\OOP C Sharp Session 1.0 Solution\OOP C Sharp Session 1.0\obj\Debug\net5.0\OOP C Sharp Session 1.0.AssemblyInfo.cs
+E:\Repos\Projects\C#\OOP C Sharp Session 1.0 Solution\OOP C Sharp Session 1.0\obj\Debug\net5.0\OOP C Sharp Session 1.0.csproj.CoreCompileInputs.cache
+E:\Repos\Projects\C#\OOP C Sharp Session 1.0 Solution\OOP C Sharp Session 1.0\obj\Debug\net5.0\OOP C Sharp Session 1.0.csproj.CopyComplete
+E:\Repos\Projects\C#\OOP C Sharp Session 1.0 Solution\OOP C Sharp Session 1.0\obj\Debug\net5.0\OOP C Sharp Session 1.0.dll
+E:\Repos\Projects\C#\OOP C Sharp Session 1.0 Solution\OOP C Sharp Session 1.0\obj\Debug\net5.0\refint\OOP C Sharp Session 1.0.dll
+E:\Repos\Projects\C#\OOP C Sharp Session 1.0 Solution\OOP C Sharp Session 1.0\obj\Debug\net5.0\OOP C Sharp Session 1.0.pdb
+E:\Repos\Projects\C#\OOP C Sharp Session 1.0 Solution\OOP C Sharp Session 1.0\obj\Debug\net5.0\OOP C Sharp Session 1.0.genruntimeconfig.cache
+E:\Repos\Projects\C#\OOP C Sharp Session 1.0 Solution\OOP C Sharp Session 1.0\obj\Debug\net5.0\ref\OOP C Sharp Session 1.0.dll

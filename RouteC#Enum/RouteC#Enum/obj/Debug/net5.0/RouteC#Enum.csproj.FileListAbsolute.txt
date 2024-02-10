@@ -1,0 +1,15 @@
+E:\Repos\Projects\C#\RouteC#Enum\RouteC#Enum\bin\Debug\net5.0\RouteC#Enum.exe
+E:\Repos\Projects\C#\RouteC#Enum\RouteC#Enum\bin\Debug\net5.0\RouteC#Enum.deps.json
+E:\Repos\Projects\C#\RouteC#Enum\RouteC#Enum\bin\Debug\net5.0\RouteC#Enum.runtimeconfig.json
+E:\Repos\Projects\C#\RouteC#Enum\RouteC#Enum\bin\Debug\net5.0\RouteC#Enum.runtimeconfig.dev.json
+E:\Repos\Projects\C#\RouteC#Enum\RouteC#Enum\bin\Debug\net5.0\RouteC#Enum.dll
+E:\Repos\Projects\C#\RouteC#Enum\RouteC#Enum\bin\Debug\net5.0\RouteC#Enum.pdb
+E:\Repos\Projects\C#\RouteC#Enum\RouteC#Enum\obj\Debug\net5.0\RouteC#Enum.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\Projects\C#\RouteC#Enum\RouteC#Enum\obj\Debug\net5.0\RouteC#Enum.AssemblyInfoInputs.cache
+E:\Repos\Projects\C#\RouteC#Enum\RouteC#Enum\obj\Debug\net5.0\RouteC#Enum.AssemblyInfo.cs
+E:\Repos\Projects\C#\RouteC#Enum\RouteC#Enum\obj\Debug\net5.0\RouteC#Enum.csproj.CoreCompileInputs.cache
+E:\Repos\Projects\C#\RouteC#Enum\RouteC#Enum\obj\Debug\net5.0\RouteC#Enum.dll
+E:\Repos\Projects\C#\RouteC#Enum\RouteC#Enum\obj\Debug\net5.0\refint\RouteC#Enum.dll
+E:\Repos\Projects\C#\RouteC#Enum\RouteC#Enum\obj\Debug\net5.0\RouteC#Enum.pdb
+E:\Repos\Projects\C#\RouteC#Enum\RouteC#Enum\obj\Debug\net5.0\RouteC#Enum.genruntimeconfig.cache
+E:\Repos\Projects\C#\RouteC#Enum\RouteC#Enum\obj\Debug\net5.0\ref\RouteC#Enum.dll
