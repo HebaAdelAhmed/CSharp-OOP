@@ -1,0 +1,15 @@
+E:\Repos\Projects\Route C#\RouteCSharpDelegate Solution\RouteCSharpDelegate\bin\Debug\net5.0\RouteCSharpDelegate.exe
+E:\Repos\Projects\Route C#\RouteCSharpDelegate Solution\RouteCSharpDelegate\bin\Debug\net5.0\RouteCSharpDelegate.deps.json
+E:\Repos\Projects\Route C#\RouteCSharpDelegate Solution\RouteCSharpDelegate\bin\Debug\net5.0\RouteCSharpDelegate.runtimeconfig.json
+E:\Repos\Projects\Route C#\RouteCSharpDelegate Solution\RouteCSharpDelegate\bin\Debug\net5.0\RouteCSharpDelegate.runtimeconfig.dev.json
+E:\Repos\Projects\Route C#\RouteCSharpDelegate Solution\RouteCSharpDelegate\bin\Debug\net5.0\RouteCSharpDelegate.dll
+E:\Repos\Projects\Route C#\RouteCSharpDelegate Solution\RouteCSharpDelegate\bin\Debug\net5.0\RouteCSharpDelegate.pdb
+E:\Repos\Projects\Route C#\RouteCSharpDelegate Solution\RouteCSharpDelegate\obj\Debug\net5.0\RouteCSharpDelegate.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\Projects\Route C#\RouteCSharpDelegate Solution\RouteCSharpDelegate\obj\Debug\net5.0\RouteCSharpDelegate.AssemblyInfoInputs.cache
+E:\Repos\Projects\Route C#\RouteCSharpDelegate Solution\RouteCSharpDelegate\obj\Debug\net5.0\RouteCSharpDelegate.AssemblyInfo.cs
+E:\Repos\Projects\Route C#\RouteCSharpDelegate Solution\RouteCSharpDelegate\obj\Debug\net5.0\RouteCSharpDelegate.csproj.CoreCompileInputs.cache
+E:\Repos\Projects\Route C#\RouteCSharpDelegate Solution\RouteCSharpDelegate\obj\Debug\net5.0\RouteCSharpDelegate.dll
+E:\Repos\Projects\Route C#\RouteCSharpDelegate Solution\RouteCSharpDelegate\obj\Debug\net5.0\refint\RouteCSharpDelegate.dll
+E:\Repos\Projects\Route C#\RouteCSharpDelegate Solution\RouteCSharpDelegate\obj\Debug\net5.0\RouteCSharpDelegate.pdb
+E:\Repos\Projects\Route C#\RouteCSharpDelegate Solution\RouteCSharpDelegate\obj\Debug\net5.0\RouteCSharpDelegate.genruntimeconfig.cache
+E:\Repos\Projects\Route C#\RouteCSharpDelegate Solution\RouteCSharpDelegate\obj\Debug\net5.0\ref\RouteCSharpDelegate.dll

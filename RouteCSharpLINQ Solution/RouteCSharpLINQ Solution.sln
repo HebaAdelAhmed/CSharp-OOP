@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RouteCSharpLINQ", "RouteCSharpLINQ\RouteCSharpLINQ.csproj", "{DF0BAD10-A7C0-47B1-B270-0405BBDF5630}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF0BAD10-A7C0-47B1-B270-0405BBDF5630}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF0BAD10-A7C0-47B1-B270-0405BBDF5630}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF0BAD10-A7C0-47B1-B270-0405BBDF5630}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF0BAD10-A7C0-47B1-B270-0405BBDF5630}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40B92A0C-4E56-4371-BD02-CDD83684A868}
+	EndGlobalSection
+EndGlobal
