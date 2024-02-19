@@ -1,0 +1,15 @@
+E:\Repos\Projects\Route C#\RouteCSharpLINQ Solution\RouteCSharpLINQ\bin\Debug\net5.0\RouteCSharpLINQ.exe
+E:\Repos\Projects\Route C#\RouteCSharpLINQ Solution\RouteCSharpLINQ\bin\Debug\net5.0\RouteCSharpLINQ.deps.json
+E:\Repos\Projects\Route C#\RouteCSharpLINQ Solution\RouteCSharpLINQ\bin\Debug\net5.0\RouteCSharpLINQ.runtimeconfig.json
+E:\Repos\Projects\Route C#\RouteCSharpLINQ Solution\RouteCSharpLINQ\bin\Debug\net5.0\RouteCSharpLINQ.runtimeconfig.dev.json
+E:\Repos\Projects\Route C#\RouteCSharpLINQ Solution\RouteCSharpLINQ\bin\Debug\net5.0\RouteCSharpLINQ.dll
+E:\Repos\Projects\Route C#\RouteCSharpLINQ Solution\RouteCSharpLINQ\bin\Debug\net5.0\RouteCSharpLINQ.pdb
+E:\Repos\Projects\Route C#\RouteCSharpLINQ Solution\RouteCSharpLINQ\obj\Debug\net5.0\RouteCSharpLINQ.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\Projects\Route C#\RouteCSharpLINQ Solution\RouteCSharpLINQ\obj\Debug\net5.0\RouteCSharpLINQ.AssemblyInfoInputs.cache
+E:\Repos\Projects\Route C#\RouteCSharpLINQ Solution\RouteCSharpLINQ\obj\Debug\net5.0\RouteCSharpLINQ.AssemblyInfo.cs
+E:\Repos\Projects\Route C#\RouteCSharpLINQ Solution\RouteCSharpLINQ\obj\Debug\net5.0\RouteCSharpLINQ.csproj.CoreCompileInputs.cache
+E:\Repos\Projects\Route C#\RouteCSharpLINQ Solution\RouteCSharpLINQ\obj\Debug\net5.0\RouteCSharpLINQ.dll
+E:\Repos\Projects\Route C#\RouteCSharpLINQ Solution\RouteCSharpLINQ\obj\Debug\net5.0\refint\RouteCSharpLINQ.dll
+E:\Repos\Projects\Route C#\RouteCSharpLINQ Solution\RouteCSharpLINQ\obj\Debug\net5.0\RouteCSharpLINQ.pdb
+E:\Repos\Projects\Route C#\RouteCSharpLINQ Solution\RouteCSharpLINQ\obj\Debug\net5.0\RouteCSharpLINQ.genruntimeconfig.cache
+E:\Repos\Projects\Route C#\RouteCSharpLINQ Solution\RouteCSharpLINQ\obj\Debug\net5.0\ref\RouteCSharpLINQ.dll
