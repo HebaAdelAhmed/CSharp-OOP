@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="~/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+
+</head>
+<body>
+    <nav class="mt-5">
+        <center>
+
+            @* 1. HTML Tag *@
+            @* <a href="/Home/Index/10" class="btn btn-primary">Home</a> *@
+
+            @* 2. HTML Helper *@
+            @* @Html.ActionLink("Home" , "Index" , "Home" , null , new {@class = "btn btn-primary"}); *@
+
+            @* 3. Tag Helper *@
+            <a asp-controller="Home" asp-action="Index" class="btn btn-primary">Home</a>
+            <a asp-controller="Home" asp-action="AboutUs" class="btn btn-light">About Us</a>
+            <a asp-controller="Home" asp-action="Privacy" class="btn btn-success">Privacy</a>
+            <a asp-controller="Home" asp-action="ContactUs" class="btn btn-warning">Contact Us</a>
+            <a asp-controller="Account" asp-action="Login" class="btn btn-danger">Login</a>
+            <a asp-controller="Account" asp-action="Register" class="btn btn-info">Register</a>
+        </center>
+    </nav>
+    <div>
+        @RenderBody()
+    </div>
+    <footer>
+        <center>
+            <p class="mt-4">CopyRights &copy; Route Academy @DateTime.Now.Year</p>
+        </center>
+    </footer>
+</body>
+</html>

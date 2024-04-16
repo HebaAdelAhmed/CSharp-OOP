@@ -1,0 +1,40 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<h1>Hello</h1>
+<div id="div1">Hello There</div>
+<style>
+    #div1{
+        color: red;
+        background-color: blue;
+    }
+</style>
+<script>
+    // alert("Hi");
+</script>
+
+<!--Razor Page-->
+<!--Block Of Code-->
+@{
+    int X = 0;
+    int Y = 10;
+}
+<!--Inline Code-->
+<h1>@X</h1>
+<!--Conditional Statement-->
+@if (X>Y)
+{
+<h2>X Is Greater Than Y</h2>
+}
+else
+{
+    <h2>Y Is Geater Than X</h2>
+}
+<ul>
+@for(int i = 0; i <= 10; i++)
+{
+    <li>@i</li>
+}
+</ul>
